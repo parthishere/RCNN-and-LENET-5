@@ -1,0 +1,6 @@
+Documentation ma 
+1. Project definition 
+2. Technology Used 
+3. Algorithm Used (if any special)
+4. Output screenshot
+5. Output's detailed explanation
